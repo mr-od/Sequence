@@ -1,0 +1,28 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "ihemyiLocal",
+            "password": "secret",
+            "username": "root",
+            "database": "ihemyidb"
+        }
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.foreground": "#B8C6FF",
+        "activityBar.background": "#000B38",
+        "activityBar.inactiveForeground": "#115186",
+        "activityBarBadge.foreground": "#2C004E",
+        "activityBarBadge.background": "#CE91FF",
+        "statusBar.foreground": "#FFD0C3",
+        "statusBar.background": "#9B432B",
+        "statusBarItem.hoverBackground": "#5F3F16",
+        "statusBarItem.remoteForeground": "#EEE684",
+        "statusBarItem.remoteBackground": "#6B6302",
+        "statusBar.debuggingForeground": "#030100",
+        "statusBar.debuggingBackground": "#D27962"
+    }
+}
